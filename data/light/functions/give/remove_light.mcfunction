@@ -1,0 +1,1 @@
+give @s spider_spawn_egg{display:{Name:'{"italic":false,"color":"red","text":"Remove Light"}'}}

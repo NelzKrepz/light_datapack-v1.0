@@ -1,0 +1,1 @@
+data modify entity @e[tag=lights,sort=nearest,limit=1] Rotation[0] set value 90f

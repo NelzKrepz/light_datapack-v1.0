@@ -1,0 +1,1 @@
+give @s bat_spawn_egg{display:{Name:'{"italic":false,"color":"aqua","text":"Face to West and East"}'}}
